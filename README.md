@@ -36,6 +36,6 @@ Compile the Java source code files.
 
 Run the LongestCompoundWord program.
 
-Provide the input files, "Input_01.txt" and "Input_02.txt," as command-line arguments.
+Check that the input files, "Input_01.txt" and "Input_02.txt" are present in the same repository.
 
 The program will display the results separately for each input file, including the longest and second longest compound words and the time taken to process each file.
