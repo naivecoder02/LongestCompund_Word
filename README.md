@@ -15,6 +15,7 @@ Measure the time taken to process the input file.
 # Key Functions
 
 **Trie.java:**
+
 **->insert(String s):** Inserts a word into the Trie data structure.
 
 **->getSuffixesStartIndices(String s):** Returns a list of starting indices for all the suffixes of a given word.
@@ -24,11 +25,17 @@ Measure the time taken to process the input file.
 **->Pair:** A simple class used to store pairs of two objects.This class is used to store pairs of words and their substrings during the processing of words in the main program.
 
 **LongestCompoundWord.java:**
+
 **->processFile(String filename):** Processes an input file to find the longest and second longest compound words, as well as the time taken to process the file.
+
 **->main(String[] args):** The main entry point of the program. Calls processFile for two input files, "Input_01.txt" and "Input_02.txt."
 
 # Execution:
-**1**Compile the Java source code files.
-**2**Run the LongestCompoundWord program.
-**3**Provide the input files, "Input_01.txt" and "Input_02.txt," as command-line arguments.
-**4**The program will display the results separately for each input file, including the longest and second longest compound words and the time taken to process each file.
+
+Compile the Java source code files.
+
+Run the LongestCompoundWord program.
+
+Provide the input files, "Input_01.txt" and "Input_02.txt," as command-line arguments.
+
+The program will display the results separately for each input file, including the longest and second longest compound words and the time taken to process each file.
