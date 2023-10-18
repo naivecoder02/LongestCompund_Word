@@ -28,7 +28,7 @@ Measure the time taken to process the input file.
 **->main(String[] args):** The main entry point of the program. Calls processFile for two input files, "Input_01.txt" and "Input_02.txt."
 
 # Execution:
-Compile the Java source code files.
-Run the LongestCompoundWord program.
-Provide the input files, "Input_01.txt" and "Input_02.txt," as command-line arguments.
-The program will display the results separately for each input file, including the longest and second longest compound words and the time taken to process each file.
+**->**Compile the Java source code files.
+**->**Run the LongestCompoundWord program.
+**->**Provide the input files, "Input_01.txt" and "Input_02.txt," as command-line arguments.
+**->**The program will display the results separately for each input file, including the longest and second longest compound words and the time taken to process each file.
