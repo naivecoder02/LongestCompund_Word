@@ -5,11 +5,17 @@ The "Longest Compound Word Finder" is a Java program that processes a list of wo
 
 # Approach
 The program follows these steps to identify compound words:
+
 Read words from an input file, one word per line.
+
 Utilize a Trie data structure to store the words and their substrings efficiently.
+
 Process each word to find all of its suffixes and add them to a queue for further examination.
+
 While processing the queue, check if the current word is a compound word by searching the Trie.
+
 Keep track of the longest and second longest compound words found.
+
 Measure the time taken to process the input file.
 
 # Key Functions
